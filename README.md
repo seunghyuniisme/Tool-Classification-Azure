@@ -34,7 +34,8 @@ This project was designed to help tool companies easily classify and manage thei
    - (추후 추가 기능) 공구명, 가격, 제품 코드, 수량 등을 판매 사이트에 업로드
 
 ## 데모 (실행화면)
-- 이미지 첨부 예정
+![main](https://github.com/user-attachments/assets/f4437aa8-2266-443e-bc68-5d3676bfbee2)
+![image_upload](https://github.com/user-attachments/assets/5298b76e-a9e6-4345-8395-e36df699df52)
 
 ## 사용법
 이 프로젝트는 Azure AI 서비스를 사용하므로, **API 키와 엔드포인트**가 필요합니다. Azure Portal에서 해당 정보를 얻을 수 있습니다.
