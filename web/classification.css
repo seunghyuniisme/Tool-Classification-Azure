@@ -1,0 +1,100 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  font-family: 'Pretendard', sans-serif;
+  background: #f7f7f7;
+}
+
+.header {
+  background: black;
+  color: white;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 24px; /* 폰트 크기를 통일 */
+}
+
+.highlight {
+  color: #119DD8; /* '다음 단계' 색상을 파란색으로 변경 */
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /* margin-top: 25px; */
+  padding: 25px;
+}
+
+.content {
+  display: flex;
+  max-width: 850px; /* 크기를 키움 */
+  width: 100%;
+  padding: 20px; /* 패딩을 키움 */
+  background: white;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  margin-top: 20px;
+  text-align: left; /* 텍스트 정렬을 왼쪽으로 */
+}
+
+.image-preview {
+  flex: 1; /* 이미지와 텍스트 영역을 나누기 위해 flex 사용 */
+  padding-right: 20px;
+}
+
+.image-preview img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.result {
+  flex: 1; /* 이미지와 텍스트 영역을 나누기 위해 flex 사용 */
+  font-size: 20px;
+  color: #666;
+}
+
+.result h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #333;
+}
+
+.result p2 {
+  font-size: 17px;
+  color: #666;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.retry-button, .next-button {
+  background: #119DD8;
+  border: none;
+  color: white;
+  padding: 15px 40px; /* 버튼 크기 증가 */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px; /* 버튼 폰트 크기 증가 */
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 10px;
+  margin: 0 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.retry-button {
+  background: #ccc;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
