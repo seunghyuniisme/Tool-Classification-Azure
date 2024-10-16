@@ -9,5 +9,32 @@ This project utilizes **Microsoft Azure's Custom Vision (Classification)** featu
 
 This project was designed to help tool companies easily classify and manage their products.
 
-***
 
+## 주요 기능
+1. **공구 이미지 분류**  
+   - MS Azure Custom Vision 모델을 활용해 업로드된 공구 이미지를 분석하고, 해당 공구의 이름(종류) 및 분류를 제공합니다.
+
+2. **공구 정보 제공**  
+   - 공구의 이름, 가격, 제품 코드, 수량 등 다양한 정보를 제공합니다.
+
+3. **판매 사이트 업로드 기능 (추후 추가 가능)**  
+   - 분류된 공구 정보를 사용자가 바로 판매 사이트에 업로드할 수 있는 기능이 추가될 예정입니다.
+
+
+## 사용된 기술
+- **MS Azure Custom Vision API**
+- **HTML, CSS**
+- **Django Framework**
+
+## 사용 방법
+1. Visual Studio Code에서 `web` 폴더에 있는 `main.html` 파일을 열어 실행합니다.
+2. 웹 페이지가 로드되면 "시작하기" 버튼을 클릭하고 아래 순서대로 진행:
+   - 공구 이미지 업로드
+   - 분류 결과에 따라 이미지 재업로드 또는 가져가기 버튼 클릭
+   - (추후 추가 기능) 공구명, 가격, 제품 코드, 수량 등을 판매 사이트에 업로드
+
+## 데모 (실행화면)
+- 이미지 첨부 예정
+
+## 사용법
+이 프로젝트는 Azure AI 서비스를 사용하므로, **API 키와 엔드포인트**가 필요합니다. Azure Portal에서 해당 정보를 얻을 수 있습니다.
