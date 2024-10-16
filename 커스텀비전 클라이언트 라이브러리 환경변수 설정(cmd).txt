@@ -1,0 +1,11 @@
+<커스텀비전 클라이언트 라이브러리 환경변수 설정(cmd)>
+
+setx VISION_TRAINING_KEY 2dc402bd0c5e45fbbc54730fb2757532
+
+setx VISION_TRAINING_ENDPOINT https://b05mlcv20240717.cognitiveservices.azure.com/
+
+setx VISION_PREDICTION_KEY 7fd189c12f57491ca0825b87124b2bcb
+
+setx VISION_PREDICTION_ENDPOINT https://b05mlcv20240717-prediction.cognitiveservices.azure.com/
+
+setx VISION_PREDICTION_RESOURCE_ID /subscriptions/b850d62a-25fe-4d3a-9697-ea40449528a9/resourceGroups/b05-AzureMLDTest/providers/Microsoft.CognitiveServices/accounts/b05mlcv20240717-Prediction
