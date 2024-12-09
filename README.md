@@ -3,7 +3,7 @@
 
 
 
-This project utilizes **Microsoft Azure's Custom Vision (Classification)** feature to create an AI model that classifies and learns from various tool images. The trained model is provided as an API and has been implemented as a web application using **HTML**, **CSS**, and **JavaScript**. When users upload tool images on the web page, the model automatically classifies the tools and provides information such as the tool’s name, type, and price.
+This project utilizes **Microsoft Azure's Custom Vision (Classification)** feature to create an AI model that classifies and learns from various tool images. The trained model is provided as an API and has been implemented as a web application using **HTML**, **CSS**, and **JavaScript**. When users upload tool images on the web page, the model automatically classifies the tools and provides information such as the tool’s name, type, and price.  
 
 
 
@@ -14,7 +14,7 @@ This project utilizes **Microsoft Azure's Custom Vision (Classification)** featu
 * 카탈로그 제작 효율성 증대 (Enhancing the Efficiency of Catalog Production)
 * 온라인 상품 등록의 자동화 (Automating Online Product Registration)
 * 비숙련자 지원을 통한 생산성 향상 (Improving Productivity by Supporting Non-Experts)
-
+  
 
 
 
