@@ -8,7 +8,9 @@ This project utilizes **Microsoft Azure's Custom Vision (Classification)** featu
 
 
 
-# 프로젝트의 목표 및 필요성 (Project Goal and Necessity)
+
+
+## 프로젝트의 목표 및 필요성 (Project Goal and Necessity)
 * 카탈로그 제작 효율성 증대 (Enhancing the Efficiency of Catalog Production)
 * 온라인 상품 등록의 자동화 (Automating Online Product Registration)
 * 비숙련자 지원을 통한 생산성 향상 (Improving Productivity by Supporting Non-Experts)
