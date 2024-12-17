@@ -31,7 +31,8 @@ A web service for tool classification is created using **Microsoft Azure Custom 
 
 ## :pushpin: 사용된 기술 (Tech)
 
-- MS Azure Custom Vision 
+- MS Azure Custom Vision
+- Jupyter Notebook
 - Python
 - HTML, CSS, JS
 - Django Framework
