@@ -25,7 +25,7 @@ A web service for tool classification is created using **Microsoft Azure Custom 
 2. **공구 정보 제공 (Tool Information Display)**  
    - 공구의 이름, 가격, 제품 코드, 수량 등 다양한 정보를 제공합니다.
 
-3. **판매 사이트 업로드 기능 (추후 추가 가능) Sales Site Upload Feature (plans for a future update)**  
+3. **판매 사이트 업로드 기능 (추후 추가 가능) Sales Site Upload Feature (plans for a future update)**  
    - 분류된 공구 정보를 사용자가 바로 판매 사이트에 업로드할 수 있는 기능이 추가될 예정입니다.
     
 
