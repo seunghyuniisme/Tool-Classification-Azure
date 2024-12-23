@@ -54,7 +54,7 @@ A web service for tool classification is created using **Microsoft Azure Custom 
     -   (Future Update) Upload the tool’s name, price, product code, and quantity to a sales platform.
 
 
-## :pushpin: 실행 화면
+## :pushpin: 실행 화면 (Result)
 ![main](https://github.com/user-attachments/assets/f4437aa8-2266-443e-bc68-5d3676bfbee2)
 ![image_upload](https://github.com/user-attachments/assets/5298b76e-a9e6-4345-8395-e36df699df52)
 
