@@ -57,7 +57,7 @@ A web service for tool classification is created using **Microsoft Azure Custom 
 ## :pushpin: 실행 화면 (Result)
 ![main](https://github.com/user-attachments/assets/f4437aa8-2266-443e-bc68-5d3676bfbee2)
 ![image_upload](https://github.com/user-attachments/assets/5298b76e-a9e6-4345-8395-e36df699df52)
-
+![image_upload](https://github.com/user-attachments/assets/51fc3b66-0678-4e9e-8cd9-abc359c14489)
 
 
 ## :pushpin: 참고 사항 (Notes)
