@@ -14,7 +14,7 @@ A web service for tool classification is created using **Microsoft Azure Custom 
 
 * 카탈로그 제작 효율성 증대 (Enhancing the Efficiency of Catalog Production)
 * 온라인 상품 등록의 자동화 (Automating Online Product Registration)
-* 비숙련자 지원을 통한 생산성 향상 (Improving Productivity by Supporting Non-Experts)
+* 비숙련자 지원을 통한 생산성 향상 (Improving Productivity by Supporting Non-Experts)    
 
 
 ## :pushpin: 주요 기능 (Key Features)
