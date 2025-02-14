@@ -10,7 +10,7 @@ A web service for tool classification is created using **Microsoft Azure Custom 
 
 
 
-## :pushpin: 프로젝트의 목표 및 필요성 (Project Goal and Necessity)
+## :pushpin: 프로젝트의 목표 및 필요성 (Project Goal & Necessity)
 
 * 카탈로그 제작 효율성 증대 (Enhancing the Efficiency of Catalog Production)
 * 온라인 상품 등록의 자동화 (Automating Online Product Registration)
