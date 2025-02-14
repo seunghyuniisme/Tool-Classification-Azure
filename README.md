@@ -1,5 +1,5 @@
 # 공구 분류 서비스 (Tool Classification Service Using Microsoft Azure AI)
-**Microsoft Azure**의 **Azure AI Custom Vision를 사용하여 다양한 공구 이미지를 학습 및 분류하고 해당 모델을 통해 공구 분류 웹 서비스**를 만들었습니다. 학습된 모델은 API 형태로 제공되며, **Python**, **HTML**, **JavaScript**, **Django Framework** 등을 사용하여 웹 페이지 형태로 구현하였습니다. 사용자가 웹 페이지에서 공구 이미지를 업로드하면, 모델이 이를 자동으로 분류하여 해당 공구의 종류, 이름, 가격 등의 정보를 알려주는 서비스입니다.           
+**Microsoft Azure의 Azure AI Custom Vision를 사용하여 다양한 공구 이미지를 학습 및 분류하고 해당 모델을 통해 공구 분류 웹 서비스를 개발하였습니다.** 학습된 모델은 API 형태로 제공되며, **Python**, **HTML**, **JavaScript**, **Django Framework** 등을 사용하여 웹 페이지 형태로 구현하였습니다. 사용자가 웹 페이지에서 공구 이미지를 업로드하면, 모델이 이를 자동으로 분류하여 해당 공구의 종류, 이름, 가격 등의 정보를 알려주는 서비스입니다.           
 
 
 
