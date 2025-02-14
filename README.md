@@ -6,7 +6,8 @@
 
 
 
-A web service for tool classification is created using **Microsoft Azure Custom Vision** to train and classify various tool images. The trained model is provided as an API and implemented as a web application using **Python, HTML, JavaScript, and the Django Framework**. When users upload a tool image on the web page, the model automatically classifies the tool and provides information such as its type, name, and price.  
+**A web service for tool classification is created using Microsoft Azure Custom Vision to train and classify various tool images.**  
+The trained model is provided as an API and implemented as a web application using **Python, HTML, JavaScript, and the Django Framework**. When users upload a tool image on the web page, the model automatically classifies the tool and provides information such as its type, name, and price.  
 
 
 
