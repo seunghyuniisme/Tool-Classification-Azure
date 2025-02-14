@@ -69,7 +69,9 @@ The trained model is provided as an API and implemented as a web application usi
   
 
 ## :pushpin: 참고 사항 (Notes)
-이 프로젝트는 Azure Custom Vision 서비스를 사용하므로, 모델에 접근하기 위한 API 키와 엔드포인트가 필요합니다. 해당 정보는 Azure Portal에서 얻을 수 있습니다.
+이 프로젝트는 Azure Custom Vision 서비스를 사용하므로, 모델에 접근하기 위한 API 키와 엔드포인트가 필요합니다.  
+해당 정보는 Azure Portal에서 얻을 수 있습니다.
 
-This project uses the Azure Custom Vision service, so you'll need the API key and endpoint to access the model. These details can be obtained from the Azure Portal.
+This project uses the Azure Custom Vision service, so you'll need the API key and endpoint to access the model.  
+These details can be obtained from the Azure Portal.
 
