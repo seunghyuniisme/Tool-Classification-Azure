@@ -20,13 +20,13 @@ A web service for tool classification is created using **Microsoft Azure Custom 
 ## :pushpin: 주요 기능 (Key Features)
 
 1. **공구 이미지 분류 (Tool Image Classification)**  
-   - MS Azure Custom Vision 모델을 활용해 업로드된 공구 이미지를 분석하고, 해당 공구의 이름(종류) 및 분류를 제공합니다.
+   MS Azure Custom Vision 모델을 활용해 업로드된 공구 이미지를 분석하고, 해당 공구의 이름(종류) 및 분류를 제공합니다.
 
 2. **공구 정보 제공 (Tool Information Display)**  
-   - 공구의 이름, 가격, 제품 코드, 수량 등 다양한 정보를 제공합니다.
+   공구의 이름, 가격, 제품 코드, 수량 등 다양한 정보를 제공합니다.
 
 3. **판매 사이트 업로드 기능 (추후 추가 가능) Sales Site Upload Feature**  
-   - 분류된 공구 정보를 사용자가 바로 판매 사이트에 업로드할 수 있는 기능이 추가될 예정입니다.
+   분류된 공구 정보를 사용자가 바로 판매 사이트에 업로드할 수 있는 기능이 추가될 예정입니다.
     
 
 ## :pushpin: 활용 기술 (Tech)
