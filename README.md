@@ -12,7 +12,7 @@
 The trained model is provided as an API and implemented as a web application using **Python, HTML, JavaScript, and the Django Framework**. When users upload a tool image on the web page, the model automatically classifies the tool and provides information such as its type, name, and price.  
 
 
-
+  
       
 ## :pushpin: 프로젝트의 목표 및 필요성 (Project Goal & Necessity)
 
