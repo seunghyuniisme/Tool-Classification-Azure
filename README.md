@@ -13,8 +13,7 @@ The trained model is provided as an API and implemented as a web application usi
 
 
 
-
-
+       
 ## :pushpin: 프로젝트의 목표 및 필요성 (Project Goal & Necessity)
 
 * 카탈로그 제작 효율성 증대 (Enhancing the Efficiency of Catalog Production)
